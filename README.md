@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/DadsDuds/DadsDuds/main/dadsduds.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
-### I specialize in Python and C++ programming. I am an up-and-coming robotics software engineer looking to expand my interests and network with others.
+### ⚡ I specialize in Python and C++ programming. I am an up-and-coming robotics software engineer looking to expand my interests and network with others.
+### 📫 Feel free to reach me at: marshall.sullivan@outlook.com
 
 <!--
 **DadsDuds/DadsDuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
