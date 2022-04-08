@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/DadsDuds/DadsDuds/main/dadsduds.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 <!--
 **DadsDuds/DadsDuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
